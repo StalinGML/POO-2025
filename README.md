@@ -1,4 +1,7 @@
-**PROGRAMACION ORIENTADA A OBJETOS**
-REPOSITORIO PARA SUBIR LAS ACTIVIDADES Y TAREAS DENTRO DE LA MATERIA DE POO.
-ALUMNO: STALIN GABRIEL MENDIETA LOPEZ
-SEGUNDO NIVEL 2025
+# PROGRAMACIÓN ORIENTADA A OBJETOS
+
+Repositorio para subir las actividades y tareas dentro de la materia de **POO**.
+
+**Alumno:** Stalin Gabriel Mendieta López
+
+**Segundo Nivel - 2025**
